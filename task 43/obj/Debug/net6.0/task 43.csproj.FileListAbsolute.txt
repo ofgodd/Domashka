@@ -1,0 +1,15 @@
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\task 43.csproj.AssemblyReference.cache
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\task 43.GeneratedMSBuildEditorConfig.editorconfig
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\task 43.AssemblyInfoInputs.cache
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\task 43.AssemblyInfo.cs
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\task 43.csproj.CoreCompileInputs.cache
+C:\git seminar\all task homework C#\task 43\bin\Debug\net6.0\task 43.exe
+C:\git seminar\all task homework C#\task 43\bin\Debug\net6.0\task 43.deps.json
+C:\git seminar\all task homework C#\task 43\bin\Debug\net6.0\task 43.runtimeconfig.json
+C:\git seminar\all task homework C#\task 43\bin\Debug\net6.0\task 43.dll
+C:\git seminar\all task homework C#\task 43\bin\Debug\net6.0\task 43.pdb
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\task 43.dll
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\refint\task 43.dll
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\task 43.pdb
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\task 43.genruntimeconfig.cache
+C:\git seminar\all task homework C#\task 43\obj\Debug\net6.0\ref\task 43.dll
