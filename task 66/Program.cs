@@ -3,15 +3,14 @@
 int sum (int M, int N, int Sum)
 {
     int count = 0;
-    int B = N - count;
-    int temp = 1;
+    int B = N;
     if (N==M)
     {
-        return temp;
-    } 
+        return N;
+    }
     count++;
-    return Sum = (Sum + B) + sum(N-1);
-
+    N = N-1;
+    return Sum = (M + count) + sum (N-count) ;
 }
 Console.Write(" Введите M ");
 int M = Convert.ToInt32(Console.ReadLine());
@@ -19,3 +18,4 @@ Console.Write(" Введите N ");
 int N = Convert.ToInt32(Console.ReadLine());
 int Sum = M;
 sum(M,N,Sum);
+Console.Write(Sum);
