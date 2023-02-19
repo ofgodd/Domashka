@@ -1,0 +1,5 @@
+C:\git seminar\all task homework C#\task 66\obj\Debug\net6.0\task 66.csproj.AssemblyReference.cache
+C:\git seminar\all task homework C#\task 66\obj\Debug\net6.0\task 66.GeneratedMSBuildEditorConfig.editorconfig
+C:\git seminar\all task homework C#\task 66\obj\Debug\net6.0\task 66.AssemblyInfoInputs.cache
+C:\git seminar\all task homework C#\task 66\obj\Debug\net6.0\task 66.AssemblyInfo.cs
+C:\git seminar\all task homework C#\task 66\obj\Debug\net6.0\task 66.csproj.CoreCompileInputs.cache
